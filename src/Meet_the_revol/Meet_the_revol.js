@@ -10,12 +10,12 @@ class Meet extends Component {
   render()
   {
     return(
-      <div> 
+      <div className="adjust"> 
         
 
       <div className="row ">
 
-              <div class="card col m4 l4 s12 red lighten-1">
+              <div class="card col m4 s12 red lighten-2">
 
                     <div class="card-content">
                     <span class="card-title activator black-text ">Amrin <i class="material-icons right">tap</i></span>
@@ -28,7 +28,7 @@ class Meet extends Component {
               </div>
 
 
-              <div class="card col m4 l4 s12  lime accent-1 ">
+              <div class="card col m4 s12  lime accent-1 ">
 
                 <div class="card-content">
               <span class="card-title activator grey-text text-darken-4">Ashi <i class="material-icons right">tap</i></span>
@@ -41,7 +41,7 @@ class Meet extends Component {
               </div>
 
 
-              <div class="card col m4 l4 s12 light-green lighten-2">
+              <div class="card col m4 s12 light-green lighten-2">
 
                 <div class="card-content">
               <span class="card-title activator grey-text text-darken-4"> Ashwini<i class="material-icons right">tap</i></span>
